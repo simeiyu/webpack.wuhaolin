@@ -4,4 +4,12 @@
 
 smartgit分支里创建了readme文件，markdown代码
 
-feature-merge
+rebase head
+
+feature-merge branch
+
+branch master
+
+continue...
+
+rebase
