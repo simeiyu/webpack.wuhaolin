@@ -12,6 +12,8 @@ branch master
 
 continue...
 
+#### remote远端修改了readme，尝试rebase！！！
+
 rebase
 
 尝试一下stash——————|| stage  stash  rebase merge 
