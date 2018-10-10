@@ -13,6 +13,7 @@ branch master
 continue...
 
 #### remote远端修改了readme，尝试rebase！！！
+修改一次再commit之后。。
 
 rebase
 
