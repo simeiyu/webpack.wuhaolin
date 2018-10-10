@@ -13,3 +13,7 @@ branch master
 continue...
 
 rebase
+
+尝试一下stash——————|| stage  stash  rebase merge 
+
+现在已经在feature分支修改并提交完毕，切回master，并且apply&drop stash
