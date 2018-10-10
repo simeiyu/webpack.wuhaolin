@@ -19,3 +19,7 @@ rebase
 现在已经在feature分支修改并提交完毕，切回master，并且apply&drop stash
 
 在master修改readme之后stash，来到了feature分支修改readme并提交
+
+------
+
+尝试 rebase ！！！
