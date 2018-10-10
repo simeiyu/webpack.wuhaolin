@@ -9,3 +9,7 @@ rebase head
 feature-merge branch
 
 branch master
+
+continue...
+
+rebase
