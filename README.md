@@ -13,3 +13,5 @@ branch master
 continue...
 
 rebase
+
+在master修改readme之后stash，来到了feature分支修改readme并提交
